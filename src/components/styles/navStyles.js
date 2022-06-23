@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Navbar = styled.nav`
-  box-shadow: 2px 10px 15px black;
+  box-shadow: 2px 10px 15px #101010;
   display: flex;
   justify-content: center;
   position: fixed;

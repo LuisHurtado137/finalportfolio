@@ -14,7 +14,7 @@ export const CardContainer = styled.article`
 export const ProjectCard = styled.section`
   align-items: center;
   border-radius: 10px;
-  box-shadow: 2px 15px 15px black;
+  box-shadow: 2px 15px 15px #101010;
   display: flex;
   flex-direction: column;
   font-family: "Exo", sans-serif;

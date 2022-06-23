@@ -7,7 +7,7 @@ export const SkillContainer = styled.main`
   margin: 20px;
 `;
 export const Card = styled.div`
-  box-shadow: 2px 58px 80px black;
+  box-shadow: 2px 58px 80px #101010;
   display: grid;
   gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
