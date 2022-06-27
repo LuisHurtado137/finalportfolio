@@ -20,6 +20,9 @@ export const AboutContainer = styled.main`
     }
 
     @media only screen and (max-width: 768px) {
+        height: 100%;
+        margin: 0;
+
         .mobile-image {
             display block;
         } 
